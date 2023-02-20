@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kodego-mini-project-two-frontend-final/static/css/main.dbb8ed4d.css",
-    "main.js": "/kodego-mini-project-two-frontend-final/static/js/main.e1fddab1.js",
-    "static/js/787.ccd56b51.chunk.js": "/kodego-mini-project-two-frontend-final/static/js/787.ccd56b51.chunk.js",
-    "static/media/login-background-image.jpg": "/kodego-mini-project-two-frontend-final/static/media/login-background-image.d7ee287f3591f0b8209b.jpg",
-    "index.html": "/kodego-mini-project-two-frontend-final/index.html",
-    "main.dbb8ed4d.css.map": "/kodego-mini-project-two-frontend-final/static/css/main.dbb8ed4d.css.map",
-    "main.e1fddab1.js.map": "/kodego-mini-project-two-frontend-final/static/js/main.e1fddab1.js.map",
-    "787.ccd56b51.chunk.js.map": "/kodego-mini-project-two-frontend-final/static/js/787.ccd56b51.chunk.js.map"
+    "main.css": "/kodego-mini-project-two-frontend-final/homepage/static/css/main.7b9997f6.css",
+    "main.js": "/kodego-mini-project-two-frontend-final/homepage/static/js/main.969301c0.js",
+    "static/js/787.ccd56b51.chunk.js": "/kodego-mini-project-two-frontend-final/homepage/static/js/787.ccd56b51.chunk.js",
+    "static/media/login-background-image.jpg": "/kodego-mini-project-two-frontend-final/homepage/static/media/login-background-image.d7ee287f3591f0b8209b.jpg",
+    "index.html": "/kodego-mini-project-two-frontend-final/homepage/index.html",
+    "main.7b9997f6.css.map": "/kodego-mini-project-two-frontend-final/homepage/static/css/main.7b9997f6.css.map",
+    "main.969301c0.js.map": "/kodego-mini-project-two-frontend-final/homepage/static/js/main.969301c0.js.map",
+    "787.ccd56b51.chunk.js.map": "/kodego-mini-project-two-frontend-final/homepage/static/js/787.ccd56b51.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbb8ed4d.css",
-    "static/js/main.e1fddab1.js"
+    "static/css/main.7b9997f6.css",
+    "static/js/main.969301c0.js"
   ]
 }
