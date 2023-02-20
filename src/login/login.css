@@ -1,4 +1,4 @@
-//set the background image to fill all the screen
+
 .div-login
 {
     width: 100%;
@@ -9,7 +9,6 @@
 background-position: center;
 }
 
-//align to center the log in form
 .login-form
 {
     position: absolute;
@@ -22,19 +21,6 @@ background-position: center;
    
 }
 
-//btn
-/* .btn-warning{
-    background-color: #ffa012!important;
-    border-color:  #ffa012 !important;
-    border-radius: 7px;
-  
-  }
-  .btn-warning:hover {
-    background-color: #f8b146!important;
-    border-color:  #f89706 !important;
-  }
-   */
-  //set the radius of input
   .form-control {
     border-radius: 15px;
   }
