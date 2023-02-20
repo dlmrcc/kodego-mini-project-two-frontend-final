@@ -1,0 +1,44 @@
+//set the background image to fill all the screen
+.div-login
+{
+    width: 100%;
+    height: 100%;
+    background-image: url("/public/assets/images/login-background-image.jpg");
+    background-size: cover;
+  background-repeat: no-repeat;
+background-position: center;
+}
+
+//align to center the log in form
+.login-form
+{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    color: white;
+    border-radius: 10px;
+   
+}
+
+//btn
+/* .btn-warning{
+    background-color: #ffa012!important;
+    border-color:  #ffa012 !important;
+    border-radius: 7px;
+  
+  }
+  .btn-warning:hover {
+    background-color: #f8b146!important;
+    border-color:  #f89706 !important;
+  }
+   */
+  //set the radius of input
+  .form-control {
+    border-radius: 15px;
+  }
+
+  .border-radius{
+    border-radius: 15px;
+  }
